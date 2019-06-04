@@ -1,0 +1,12 @@
+.hippo-hidden {
+  display: none;
+}
+
+.clickhere {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickhere:hover {
+  text-decoration: underline;
+}
